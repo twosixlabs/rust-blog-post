@@ -1,0 +1,7 @@
+cpp/MyCppApp
+debug/
+target/
+Cargo.lock
+**/*.rs.bk
+*.so
+.vscode
